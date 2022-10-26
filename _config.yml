@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: [ChenBei]
 description: [This is a short description]
-show_downloads:["true"]
+
 
