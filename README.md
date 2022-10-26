@@ -7,7 +7,7 @@
 
 ## skills
 
--python
--swimming
--photograph
--painting
+- python
+- swimming
+- photograph
+- painting
