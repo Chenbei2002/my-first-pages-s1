@@ -1,10 +1,13 @@
 # my-first-pages-s1
- a exercise
+ a Simple example
 
 # Chenbei
 
-- welcome
+- From SWUFE_UD
 
 ## skills
 
 -python
+-swimming
+-photograph
+-painting
